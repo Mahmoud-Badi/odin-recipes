@@ -17,10 +17,4 @@ Through this project, I have practiced:
 
 ## 🚀 Live Demo  
 Check out the live version of this project on **GitHub Pages**:  
-🔗 [https://mahmoud-badi.github.io/odin-recipes/](https://mahmoud-badi.github.io/odin-recipes/) *(Once published)*  
-
-## ✅ How to Use This Project
-Clone the repository:
-git clone git@github.com:mahmoud-badi/odin-recipes.git
-
-Open index.html in a web browser.
+🔗 [https://mahmoud-badi.github.io/odin-recipes/](https://mahmoud-badi.github.io/odin-recipes/)
