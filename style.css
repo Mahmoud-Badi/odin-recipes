@@ -1,0 +1,43 @@
+body {
+    font-family: Copperplate, Garamond;
+    background-color: #f8f8f8;
+    color: #333;
+    text-align: center;
+
+}
+
+h1 {
+    background-color: #ce2b36;
+    color: white;
+    padding: 20px;
+}
+
+/* links */
+a {
+    text-decoration: none;
+    color: #ce2b36;
+    font-weight: bold;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black;
+}
+
+h2 {
+    color: #009246;
+    border-bottom: 2px solid #009246;
+    display: inline-block;
+}
+
+p, ul, ol {
+    font-size: 18px;
+    text-align: left;
+    max-width: 600px;
+    margin: 10px auto;
+}
+
+ol li, ul li {
+    margin-bottom: 5px;
+}
+
